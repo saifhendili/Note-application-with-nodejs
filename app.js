@@ -54,7 +54,7 @@ else{
 else
 if(command==='list'){
 	console.log('show node')
-	nodes.list()
+	nodes.list() 
 }
 else{
 		console.log('this command is unknow !!! try again!!!')
